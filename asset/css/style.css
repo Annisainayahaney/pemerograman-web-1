@@ -1,0 +1,24 @@
+body {
+    display: inline;
+    background-color: rgb(239, 222, 222);
+}
+.perkenalan-diri{
+    text-align: center;
+}
+.fotoku{
+    width: 50px;
+    height: 50px;
+
+}
+.matkul{
+    text-align: center;
+}
+.film-favorit{
+    text-align: center;
+}
+.table {
+    justify-content: center;
+}
+table, thead, tbody, tr, td{
+    border: 1px solid black;
+}
