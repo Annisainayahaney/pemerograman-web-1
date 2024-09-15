@@ -6,9 +6,9 @@ body {
     text-align: center;
 }
 .fotoku{
-    width: "50";
-    height: "50";
-
+    margin: auto;
+    width: 33.33%;
+    padding: 5%;
 }
 .matkul{
     text-align: center;
